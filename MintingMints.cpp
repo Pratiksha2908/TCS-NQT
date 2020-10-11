@@ -13,18 +13,3 @@ int main()
     }
     cout << sum << endl;
 }
-//i=1
-//sum = 14
-//nxtSum = 13
-//n = 14
-//i=2
-//sum = 27
-//nxtsum = 26
-//n = 27
-//i=3
-//sum = 53
-//nxtSum = 52
-//n =53
-//i=4
-//sum = 105
-//i=5 stopped
