@@ -16,7 +16,6 @@ bool print_each_digit(int x)
        print_each_digit(x / 10);
     
     int digit = x%10;
-    //cout << digit << endl;
     sum = sum + fact(digit);
     if(sum == x) {
         return true;
