@@ -27,5 +27,4 @@ int main()
         }
         printf("Total estimated Cost : %.1f",cost);
     }
-    return 0;
 }
